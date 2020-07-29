@@ -1,0 +1,18 @@
+{
+  "app": {
+    "prefix": "nf",
+    "name": "s3-webhosting"
+  },
+  "dev": {
+    "target": "default"
+  },
+  "accounts": {
+    "default": {
+      "env": {
+        "account": "0000000000000",
+        "region": "eu-west-1"
+      },
+      "profile": "mira-dev"
+    }
+  }
+}
